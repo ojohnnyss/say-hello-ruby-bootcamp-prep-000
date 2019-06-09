@@ -1,5 +1,5 @@
 require_relative './spec_helper'
-require_relative '../say_hello'
+require_relative './say_hello'
 describe "say_hello" do 
   
   it 'accepts an argument of a name and prints out Hello with that Name' do
